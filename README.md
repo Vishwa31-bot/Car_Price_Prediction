@@ -34,3 +34,7 @@ Pandas
 
 Synthetic dataset generation
 
+Output:
+<img width="700" height="781" alt="image" src="https://github.com/user-attachments/assets/c3895754-79dd-4eae-b645-34b43291c02c" />
+
+
