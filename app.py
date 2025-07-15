@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.title("🚗 Car Price Estimator (INR)")
-st.write("A simple car price prediction app without machine learning.")
+
 
 @st.cache_data
 def load_data():
